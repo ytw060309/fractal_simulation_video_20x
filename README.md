@@ -7,4 +7,4 @@
 
 <a href="https://drive.google.com/file/d/1wtP7JkdQkMltbAArsHByOehTWZm87OZN/view?usp=sharing">동영상 다운로드</a>
 
-<iframe src="https://drive.google.com/file/d/1wtP7JkdQkMltbAArsHByOehTWZm87OZN/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1wtP7JkdQkMltbAArsHByOehTWZm87OZN/preview" width="640" height="360" allow="autoplay"></iframe>
